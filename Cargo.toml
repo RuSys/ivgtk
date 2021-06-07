@@ -6,7 +6,7 @@ authors = ["Mercye"]
 description = "iverilog and gtkwave chaining tool."
 keywords = ["verilog", "gtkwave", "iverilog"]
 readme = "README.md"
-repository = "https:github.com/RuSys/ivgtk"
+repository = "https://github.com/RuSys/ivgtk"
 license= "MIT"
 
 [dependencies]

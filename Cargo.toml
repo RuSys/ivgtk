@@ -1,0 +1,11 @@
+[package]
+name = "ivgtk"
+version = "0.1.0"
+authors = ["Mercye"]
+
+description = "iverilog and gtkwave chaining tool."
+keywords = ["verilog", "gtkwave", "iverilog"]
+readme = "README.md"
+repository = "https:github.com/RuSys/ivgtk"
+
+[dependencies]
